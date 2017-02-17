@@ -1,4 +1,4 @@
-function hh = ezplot3(varargin)
+function hh = ezgrafica3(varargin)
 
 % Parse possible Axes input
 [cax,args,nargs] = axescheck(varargin{:});

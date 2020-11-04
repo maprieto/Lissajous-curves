@@ -15,7 +15,7 @@ Using MATLABThis software does not need any particular installation. Since it is
 
 * Using MATLAB: it is required a Matlab installation (possibly with a limited educational license). To use this code, from the MATLAB command window, type 
 
-    >> curves2d
+    curves2d.m
     
 * Using Jupyter notebooks: either a local host of Jupyter notebook server should be running or any cloud-based platforms can be used with the notebook
 

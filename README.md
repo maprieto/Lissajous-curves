@@ -21,4 +21,4 @@ This software does not need any particular installation. Since it is based in Ju
 
    curves_2d.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/Lissajous-curves/master?filepath=curves2d.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/Lissajous-curves/master?filepath=curves_2d.ipynb)

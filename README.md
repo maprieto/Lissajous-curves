@@ -11,10 +11,14 @@ To get the git version of **Lissajous-curves**, from the command line in a termi
 Installation and usage
 --------------------
 
-This software does not need any particular installation. Since it is based in Matlab scripts, it is required a Matlab installation (possibly with a limited educational license). 
+Using MATLABThis software does not need any particular installation. Since it is based in Jupyter notebooks and/or Matlab scripts, 
 
-To use this code, from the MATLAB command window, type 
+* Using MATLAB: it is required a Matlab installation (possibly with a limited educational license). To use this code, from the MATLAB command window, type 
 
     >> curves2d
+    
+* Using Jupyter notebooks: either a local host of Jupyter notebook server should be running or any cloud-based platforms can be used with the notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/Lissajous-curves/HEAD?filepath=Plotting-example.ipynb)
+   curves2d.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/Lissajous-curves/master?filepath=Lissajous_curve.ipynb)
